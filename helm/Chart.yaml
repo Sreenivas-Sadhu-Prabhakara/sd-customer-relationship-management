@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-customer-relationship-management
+description: "BIAN Service Domain: Customer Relationship Management (Direct pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - direct
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Customer Management"
+  bian/asset-type: "Customer Relationship"
+  bian/control-record: "Customer Relationship Strategy"
